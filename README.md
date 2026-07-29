@@ -16,3 +16,6 @@ This project implements a U-Net model from scratch to perform image segmentation
 <img width="668" height="418" alt="image" src="https://github.com/user-attachments/assets/c38307b7-c3d9-4f0e-937e-cbe8cd826514" />
 
 ## Evaluation
+The results for the model on the training, validation, and test IOU are shown in the figure below. The model performs the strongest on the most dominant class in the dataset: background. It performs the worst by a large margin on aquatic plants. The model generally does better on the background classes than the foreground classes. This is likely due to the dominance of background pixels in the images. The five foreground classes are: Human Diver (HD), Wrecks/Ruins (WR), Robots (RO), Reefs/Invertebrates (RI), Fish/Vertebrates (FV).
+
+<img width="681" height="638" alt="image" src="https://github.com/user-attachments/assets/b945cbce-38bb-4873-b542-6f23502e924b" />

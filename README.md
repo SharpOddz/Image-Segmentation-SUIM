@@ -12,3 +12,7 @@ This project implements a U-Net model from scratch to perform image segmentation
 ## Visual Results
 
 <img width="780" height="499" alt="image" src="https://github.com/user-attachments/assets/ea65c079-6775-454f-9824-5ab77fa4ff7b" />
+
+<img width="668" height="418" alt="image" src="https://github.com/user-attachments/assets/c38307b7-c3d9-4f0e-937e-cbe8cd826514" />
+
+## Evaluation
